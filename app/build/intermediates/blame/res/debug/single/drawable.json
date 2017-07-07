@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/login_btn_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/login_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/clear_but_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/clear_but_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/icon_mic.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/icon_mic.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/btn_stytle_red.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/btn_stytle_red.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/btn_style_green.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/btn_style_green.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/list_seletor_transparent.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/list_seletor_transparent.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/my_tab_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/my_tab_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/btn_style_white.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/btn_style_white.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/btn_shape.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/btn_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/title_btn_back.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/title_btn_back.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/preference_last_item.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/preference_last_item.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/preference_first_item.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/preference_first_item.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/button_search_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/button_search_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/dot_focused.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/dot_focused.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/search_input.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/search_input.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/outing.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/outing.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/food.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/food.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/login_editbox.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/login_editbox.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/mm_submenu.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/mm_submenu.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/preference_single_item.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/preference_single_item.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/my_list_txt_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/my_list_txt_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/chinesesnack.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/chinesesnack.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/my_address_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/my_address_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/search_city.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/search_city.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/more.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/more.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/fragment_main.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/search_bar_edit_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/search_bar_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/search_list_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/search_list_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/hotel.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/hotel.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/menu_btn_bg.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/menu_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/message_background.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/message_background.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/dot_normal.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/dot_normal.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/pub.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/pub.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/preference_item.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/res/drawable/preference_item.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    }
+]

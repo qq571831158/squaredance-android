@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">最炫广场舞</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hit">输入视频名称或者类别</string>
+    <string name="search_text">搜索</string>
+    <string name="hot_search">最新发布</string>
+    <string name="search_history">本周热门</string>
+    <string name="clear_search_history">清除</string>
+    <string name="txtAddress">目标舞群</string>
+    <string name="targetAddress">中南民族大学</string>
+    <string name="nav">规划路线</string>
+    <string name="str_err_nosd">存储卡不存在</string>
+    <string name="str_complete">视频播放完毕，是否重复播放？</string>
+
+</resources>

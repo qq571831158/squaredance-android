@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fcfcfc"
+    android:orientation="vertical" >
+        
+        <RelativeLayout 
+  			android:layout_width="fill_parent"
+  			android:layout_height="45dp"
+  			android:id="@+id/title" 
+  			android:background="@drawable/login_btn_bg"
+  			android:gravity="center_vertical"  >  
+  			
+            
+      		<TextView
+        		android:layout_width="wrap_content" 
+        		android:layout_height="wrap_content" 
+        		android:text="我的舞群"
+        		android:layout_centerInParent="true"
+        		android:textSize="20sp"		
+				android:textColor="#ffffff" /> 
+							
+		</RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@drawable/search_bar_bg" >
+
+            <EditText
+                android:id="@+id/editText1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="舞群名称或地点等..."
+                android:singleLine="true"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:textColor="#000"
+                android:drawableLeft="@drawable/search_bar_icon_normal" 
+                android:background="@drawable/search_bar_edit_bg"
+                android:onClick="btn_map" >               
+            </EditText>
+            
+        </LinearLayout>
+        <ScrollView
+        android:id="@+id/MySearchScroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            
+            <fragment  
+        android:id="@+id/id_fragment_title"  
+        android:name="db.newthread.dancers.DancerFragment"  
+        android:layout_width="match_parent"  
+        android:layout_height="160dp" />  
+        
+       <LinearLayout
+           android:id="@+id/linearLayout_one"
+           android:layout_width="fill_parent"
+           android:layout_height="46dp"
+           android:background="@drawable/account_tab_bg"
+           android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dip"
+            android:text="群组传达 "
+            android:textColor="#000000"
+            android:textSize="22dip" />
+        
+         <Button
+            android:id="@+id/button_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dip"
+            android:background="@drawable/ic_right_one"
+            android:text="更多        "
+            android:textSize="20dip" 
+            android:textColor="#000000"
+            android:onClick="btn_search_one" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+       
+        <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:onClick="btn_group_one"  >
+
+                        <LinearLayout
+                            android:id="@+id/Search_food"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_three" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="民大广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:onClick="btn_search_one"  >
+
+                        <LinearLayout
+                            android:id="@+id/Search_outing"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                 android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_one" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="华师广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                         android:onClick="btn_search_one"  >
+
+                        <LinearLayout
+                            android:id="@+id/Search_hotel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                 android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_four"  />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="财大广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal" 
+                        android:onClick="btn_search_one" >
+
+                        <LinearLayout
+                            android:id="@+id/Search_pub"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                 android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_one"  />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="武大广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal" 
+                        android:onClick="btn_search_one" >
+
+                        <LinearLayout
+                            android:id="@+id/Search_chinsesnack"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                 android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_four"  />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="纺大广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:onClick="btn_search_one"  >
+
+                        <LinearLayout
+                            android:id="@+id/Search_more"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                 android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:src="@drawable/picture_three"  />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="华农广场舞"
+                                android:textColor="#666666"
+                                android:textSize="12dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </TableRow>
+            </TableLayout>
+    </LinearLayout>
+
+    <LinearLayout
+           android:id="@+id/linearLayout_two"
+           android:layout_width="fill_parent"
+           android:layout_height="46dp"
+           android:background="@drawable/account_tab_bg"
+           android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dip"
+            android:text="全时段教学 "
+            android:textColor="#000000"
+            android:textSize="22dip" />
+        
+         <Button
+            android:id="@+id/button_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dip"
+            android:background="@drawable/ic_right_one"
+            android:text="更多        "
+            android:textSize="20dip" 
+            android:textColor="#000000"
+              android:onClick="btn_search_one" />
+        
+    </LinearLayout>
+    
+    
+    
+    
+     <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_teach_one">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_five"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_four" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="青春之歌"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="最新、最全的广场舞教学达人"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+     
+     
+      <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_video_one">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_six"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_seven" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_six"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_six"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="专注精美的广场舞教学视频达人"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+      
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal"
+              android:onClick="btn_video_one" >
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_seven"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_eight" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_seven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="淼淼秋水"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_seven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="最文艺范广场舞教学视频达人"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+       
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+              android:onClick="btn_video_one">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+              <ImageView
+                  android:id="@+id/header_eight"
+                  android:layout_width="100dp"
+                  android:layout_height="100dp"
+                  android:paddingLeft="10dp"
+                  android:src="@drawable/picture_two" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_eight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="韶韵时光"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_eight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="经典广场舞教学视频达人"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+    
+    
+       <LinearLayout
+           android:id="@+id/linearLayout_three"
+           android:layout_width="fill_parent"
+           android:layout_height="46dp"
+           android:background="@drawable/account_tab_bg"
+           android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="15dip"
+            android:text="舞群联赛 "
+            android:textColor="#000000"
+            android:textSize="22dip" />
+        
+         <Button
+            android:id="@+id/button_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dip"
+            android:background="@drawable/ic_right_one"
+            android:text="更多        "
+            android:textSize="20dip" 
+            android:textColor="#000000"
+              android:onClick="btn_search_one" />
+        
+    </LinearLayout>
+    
+    
+        
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal"
+              android:onClick="btn_competition_one" >
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_nine"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_eight" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_nine"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="最美广场舞团队争霸赛"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_nine"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="地点：武汉市洪山区 光谷广场"
+                    android:textSize="14dp" />
+                  <TextView
+                    android:id="@+id/desc_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="时间：2016年8月25日 "
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+       
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+              android:onClick="btn_competition_two">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+              <ImageView
+                  android:id="@+id/header_ten"
+                  android:layout_width="100dp"
+                  android:layout_height="100dp"
+                  android:paddingLeft="10dp"
+                  android:src="@drawable/picture_two" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_ten"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="最炫江夏凤"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_ten"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="地点：武汉市江夏区"
+                    android:textSize="14dp" />
+                <TextView
+                    android:id="@+id/desc_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="时间：2016年9月20日"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+       
+       
+       
+    
+    
+      </LinearLayout>
+    </ScrollView>
+    
+ </LinearLayout>

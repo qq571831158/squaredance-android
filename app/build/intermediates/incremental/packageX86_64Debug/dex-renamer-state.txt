@@ -1,0 +1,7 @@
+#Fri Jul 07 12:31:24 CST 2017
+base.0=/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de8c37c24bd64a3e4998f36853d1199e016caa82
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_635a4bcbab625bfbb4813b9cc9fd8599a3ad1084/classes.dex
+base.1=/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_635a4bcbab625bfbb4813b9cc9fd8599a3ad1084
+file.0=/Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de8c37c24bd64a3e4998f36853d1199e016caa82/classes.dex

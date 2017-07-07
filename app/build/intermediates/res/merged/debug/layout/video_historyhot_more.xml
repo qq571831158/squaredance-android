@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+     <RelativeLayout
+        android:layout_width="match_parent"
+        
+        android:layout_height="45dp"
+        android:background="@drawable/login_btn_bg"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="上周热门"
+            android:textSize="20sp"
+            android:textColor="#ffffff" />
+
+    </RelativeLayout>
+    
+     <ScrollView
+        android:id="@+id/MySearchScroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+         
+     <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+                       
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/account_tab_bg"
+            android:onClick="btn_video_one" >
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_three" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="最炫民族凤"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放108次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+     <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+            android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal"
+            android:onClick="btn_video_two" >
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_one"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_three" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="梦醉荷塘"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                <TextView
+                    android:id="@+id/desc_aone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放105次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+     
+     
+     
+        
+      
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_video_three">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_three"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_one" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="青春修炼册"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                <TextView
+                    android:id="@+id/desc_athree"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放104次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+       
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_video_four">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_four"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_one" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="小苹果"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_afour"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放203次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+    
+   
+    
+    
+    
+    
+     <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_video_six">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_five"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_four" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="倍儿爽"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_afive"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放306次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+     
+     
+      <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+            android:onClick="btn_video_seven">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_six"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_seven" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_six"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="潇洒走一回"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_six"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_asix"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放248次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+      
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal"
+              android:onClick="btn_video_eight" >
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+            <ImageView
+                android:id="@+id/header_seven"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:src="@drawable/picture_eight" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_seven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="伤不起"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_seven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_aseven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放288次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+       
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:gravity="center_vertical"
+             android:background="@drawable/account_tab_bg"
+            android:orientation="horizontal" 
+              android:onClick="btn_video_nine">
+
+            <!-- 定义一个ImageView，用于作为列表项的一部分。 -->
+
+              <ImageView
+                  android:id="@+id/header_eight"
+                  android:layout_width="100dp"
+                  android:layout_height="100dp"
+                  android:paddingLeft="10dp"
+                  android:src="@drawable/picture_two" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/name_eight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="巴黎假期"
+                    android:textColor="#000000"
+                    android:textSize="20dp" />
+                <!-- 定义一个TextView，用于作为列表项的一部分。 -->
+
+                <TextView
+                    android:id="@+id/desc_eight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="舞动的心"
+                    android:textSize="14dp" />
+                 <TextView
+                    android:id="@+id/desc_aeight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:text="播放406次"
+                    android:textSize="14dp" />
+            </LinearLayout>
+        </LinearLayout>
+    
+    
+    
+    </LinearLayout>		
+ </ScrollView>
+    
+    
+    
+
+</LinearLayout>

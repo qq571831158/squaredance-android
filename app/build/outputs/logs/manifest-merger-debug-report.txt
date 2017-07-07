@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:11:6-67
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:11:23-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:13:2-76
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:13:19-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:15:2-64
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:15:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:16:2-78
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:16:19-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:17:2-78
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:17:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:18:2-76
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:18:19-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:19:2-76
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:19:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:20:2-72
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:20:19-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:21:2-73
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:21:19-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:22:2-73
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:22:19-70
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:23:2-76
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:23:19-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:24:2-70
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:24:19-67
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:26:2-80
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:26:19-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:32:2-93
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:32:19-73
+application
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:34:5-120:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:36:9-38
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:38:9-40
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:40:3-42:54
+	android:value
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:42:4-52
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:41:4-41
+activity#db.newthread.login.OpenActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:46:13-47
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:44:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:50:27-74
+activity#db.newthread.login.LoginActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:53:9-55:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:54:10-44
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:53:19-66
+activity#db.newthread.login.RegisterActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:56:9-58:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:57:10-44
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:56:19-69
+activity#db.newthread.login.LoginOneActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:59:10-61:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:60:9-56
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:59:20-70
+activity#db.newthread.login.LoadingActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:62:9-64:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:63:9-45
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:62:19-68
+activity#db.newthread.main.MainSquareDanceActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:65:10-67:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:66:8-42
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:65:20-76
+activity#db.newthread.main.ExitActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:68:10-70:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:69:9-51
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:68:20-65
+activity#db.newthread.what.WhatsNewActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:71:10-73:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:72:8-42
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:71:20-69
+activity#db.newthread.what.WhatsNewDoorActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:74:10-76:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:75:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:74:20-73
+activity#db.newthread.main.MainVideoActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:78:10-80:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:79:10-41
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:78:20-70
+activity#db.newthread.main.VideoTwoActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:81:9-83:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:82:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:81:19-68
+activity#db.newthread.map.MainMapActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:84:9-86:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:85:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:84:19-66
+activity#db.newthread.stores.ButtonVoiceActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:87:9-89:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:88:10-44
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:87:19-73
+activity#db.newthread.vodeos.VideoLatestMoreActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:90:9-92:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:91:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:90:19-77
+activity#db.newthread.vodeos.VideoWeekHotActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:93:9-95:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:94:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:93:19-74
+activity#db.newthread.dancers.MinDaGroupActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:96:9-98:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:97:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:96:19-73
+activity#db.newthread.dancers.TeachOneActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:99:9-101:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:100:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:99:19-71
+activity#db.newthread.dancers.CompetitionOneActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:102:9-104:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:103:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:102:19-77
+activity#db.newthread.dancers.CompetitionTwoActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:105:9-107:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:106:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:105:19-77
+activity#db.newthread.stores.VideoValueOneActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:108:10-110:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:109:9-40
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:108:20-76
+activity#db.newthread.alarm.MainClockActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:111:9-113:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:112:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:111:19-70
+activity#db.newthread.alarm.AlarmActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:114:9-116:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:115:9-40
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:114:19-66
+activity#db.newthread.stores.StoreOneActivity
+ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:117:10-119:20
+	android:theme
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:118:9-43
+	android:name
+		ADDED from /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/src/main/AndroidManifest.xml:117:20-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/我的文档/Projects/AndroidStudioProjects/TheMostSquareDance-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:26:9-47
